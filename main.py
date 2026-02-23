@@ -15,7 +15,7 @@ spark = SparkSession.builder.appName("MusicAnalysis").getOrCreate()
 
 
 
-# Task 3: Genre Loyalty Scores
+# Task 3: Create your own Genre Loyalty Scores and rank them and list out top 10
 
 
 # Task 4: Identify users who listen between 12 AM and 5 AM
